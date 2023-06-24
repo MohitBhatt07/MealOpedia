@@ -1,4 +1,4 @@
-# shopit
+# MealOpedia
 
 A new Flutter project.
 
