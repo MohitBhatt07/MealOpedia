@@ -1,12 +1,12 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:shopit/main.dart';
-import 'package:shopit/screens/favourites_screen.dart';
+// import 'package:shopit/main.dart';
+// import 'package:shopit/screens/favourites_screen.dart';
 import 'package:shopit/screens/filter_screen.dart';
 import 'package:shopit/screens/tab_screen.dart';
 
-import '../models/meal.dart';
+// import '../models/meal.dart';
 import '../screens/about_screen.dart';
 
 class MainDrawer extends StatelessWidget {

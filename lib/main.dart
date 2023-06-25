@@ -13,7 +13,7 @@ import 'screens/filter_screen.dart';
 
 void main() => runApp(
       DevicePreview(
-        enabled: true,
+        enabled: false,
         tools: const [
           ...DevicePreview.defaultTools,
         ],
