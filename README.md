@@ -1,4 +1,4 @@
-# MealOpedia
+# shopit
 
 A new Flutter project.
 An app for helping the user to get the detailed informations about the meal.
