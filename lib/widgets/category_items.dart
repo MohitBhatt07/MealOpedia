@@ -1,8 +1,8 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:shopit/screens/category_meals_screen.dart';
-import '../screens/category_meals_screen.dart';
+// import 'package:shopit/screens/category_meals_screen.dart';
+// import '../screens/category_meals_screen.dart';
 
 class CategoryItems extends StatelessWidget {
   final Color? color;
