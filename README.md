@@ -1,6 +1,11 @@
 # MealOpedia
 
 A new Flutter project.
+An app for helping the user to get the detailed informations about the meal.
+It provides features like video tutorials for cooking the meal ,different categories of meals,recipe and ingredients section too.
+
+User can mark their favourite meal and check the marked meal after in the Favourites section.
+Filter page is also their to filter the meal as per the user's requirements.
 
 ## Getting Started
 
