@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-// import '../dummy_data.dart';
+import '../dummy_data.dart';
 import '../screens/youtube_screen.dart';
 
 class MiddleNavigationBarPage extends StatefulWidget {
@@ -164,7 +164,7 @@ class _MiddleNavigationBarPageState extends State<MiddleNavigationBarPage> {
   }
 
   Widget _buildContent() {
-    // int count = 1;
+    int count = 1;
     switch (_currentIndex) {
       case 0:
         return tabBarContent(
