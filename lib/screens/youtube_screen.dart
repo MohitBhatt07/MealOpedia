@@ -43,12 +43,18 @@ class _YoutubePlayerExampleState extends State<YoutubePlayerExample> {
           child: YoutubePlayerBuilder(
               player: YoutubePlayer(
                 controller: _controller,
+                showVideoProgressIndicator: true,
+                videoProgressIndicatorColor: Colors.amber,
+                progressColors: ProgressColors(
+                  playedColor: Colors.amber,
+                  handleColor: Colors.amberAccent,
+                ),
               ),
               builder: (context, player) {
                 return Column(
                   children: [
                     const SizedBox(
-                      height: 200,
+                      height: 400,
                     ),
                     player,
                   ],
